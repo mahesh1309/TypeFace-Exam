@@ -1,0 +1,5 @@
+
+Web crawling is nothing but extracting text and other details from a given website.
+we need to click on inspect then we will get html codes.
+We need to convert them into structured format.
+Get the information in those html files and use them.
